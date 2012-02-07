@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Master Button Style -->
+	<style name="Button">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">18dp</item>
+		<item name="android:textStyle">normal</item>
+		<item name="android:gravity">center</item>
+		<item name="android:paddingLeft">10dp</item>
+		<item name="android:paddingRight">10dp</item>
+	</style>
+
+
+	
+	<style name="Button.Transparent">
+		<item name="android:background">@drawable/btn_transparent</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:layout_height">60dp</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:gravity">center_horizontal</item>
+		<item name="android:paddingTop">15dp</item>
+		<item name="android:paddingBottom">15dp</item>
+		<item name="android:textSize">18sp</item>
+		<item name="android:layout_marginRight">10dp</item>
+		<item name="android:layout_marginLeft">10dp</item>
+		<item name="android:layout_marginBottom">10dp</item>
+	</style>
+
+
+
+
+
+</resources>
